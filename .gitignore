@@ -10,6 +10,7 @@ __v0_jsx-dev-runtime.ts
 .env*.local
 .env
 #this is on the test branch only#
+#so what next
 # Common ignores
 node_modules
 .next/
